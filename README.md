@@ -7,7 +7,7 @@
 
 
 <!-- ЭТО БОЛЬШАЯ ГИФКА 
-  <img src="https://media.giphy.com/media/cNfIqjpCY1zqfaLmd8/giphy.gif" width="650" height="350"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="650" height="350"/>
 -->
 
 
