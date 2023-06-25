@@ -42,12 +42,12 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=32Aleksey32&hide=contribs&locale=ru&show_icons=true&theme=dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=makhotin07&hide=contribs&locale=ru&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="150" src="https://github-readme-stats.vercel
 
-.app/api/top-langs/?username=32Aleksey32&layout=compact&card_width=350&locale=ru&hide=procfile&theme=dark" />
+.app/api/top-langs/?username=makhotin07&layout=compact&card_width=350&locale=ru&hide=procfile&theme=dark" />
   </a>
 </p>
 
