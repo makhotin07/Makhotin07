@@ -1,79 +1,73 @@
-<h1 align="center">🚀 Привет, я Никита 🚀</h1>
+<h1 align="center">👨‍💻 Никита Махотин | Python Backend Developer 👨‍💻</h1>
+
 <p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   <br><br>
   <samp>
-    Python Backend Developer и энтузиаст технологий!
+    Эффективность, качество и инновации – три столпа моего подхода к разработке.
   </samp>
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/images/0f1b9a041b6b161deba29759b8b60eb5/tenor.gif" width="350"/>
+  <img src="https://media.tenor.com/images/7f7f4e862c6f1c8f103085cbc240d7d7/tenor.gif" width="200"/>
 </p>
 
 ---
 
-### 👨🔧 Обо мне:
+### 🧐 Обо мне:
 
-🔥 Я разработчик из России, и мне 22 года. Влюблен в кодинг и технологии!
+📘 Я являюсь специалистом Python с 22 летним стажем, занимаюсь разработкой backend приложений с использованием Django.
 
-🔧 Занимаюсь разработкой на Python, в основном с использованием Django и Django REST Framework.
+🔧 Оттачиваю свои навыки и стремлюсь к совершенству в каждом аспекте разработки.
 
-📘 Люблю учиться и экспериментировать с новыми технологиями и инструментами.
+📚 Постоянное самосовершенствование и изучение новых технологий - это мой выбор.
 
-💡 В свободное время углубляюсь в изучение английского языка и новых фреймворков.
+🌐 Интересуюсь созданием масштабируемых и высокопроизводительных систем.
 
-🔍 В настоящее время активно ищу работу и открыт к интересным предложениям.
+🤝 Открыт для сотрудничества и в поиске новых интересных проектов.
 
 ---
 
-### 🛠 Стек технологий:
+### 💼 Технические навыки:
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div><br>
 
 ---
 
-### 📈 GitHub Статистика:
+### 📊 GitHub Статистика:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=32Aleksey
-
-32&hide=contribs&locale=ru&show_icons=true&line_height=20&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=32Aleksey32&hide=contribs&locale=ru&show_icons=true&theme=graywhite" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout=compact&card_width=350&locale=ru&hide=procfile&theme=tokyonight" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=32Aleksey32&layout
+
+=compact&card_width=350&locale=ru&theme=graywhite" />
   </a>
 </p>
 
 ---
 
-### 🌐 Контакты:
+### 📫 Контакты:
 
-📬 По вопросам сотрудничества, пожалуйста, свяжитесь со мной:
+🔗 Для связи и обсуждения возможностей сотрудничества, пожалуйста, свяжитесь со мной через Telegram:
 
 <a href="https://t.me/Makhotin_07" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 
 ---
 
-<h3 align="center">🎉 Благодарю за внимание! 🎉</h3>
+<h3 align="center">🙏 Спасибо за внимание! 🙏</h3>
 <p align="center">
   <samp>
-    Пусть код будет с тобой! 💻
+    Разрабатывая с умом, создаем будущее. 💡🚀
   </samp>
-</p>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="120"/>
 </p>
