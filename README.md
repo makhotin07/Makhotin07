@@ -45,9 +45,7 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=makhotin07&hide=contribs&locale=ru&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="150" src="https://github-readme-stats.vercel
-
-.app/api/top-langs/?username=makhotin07&layout=compact&card_width=350&locale=ru&hide=procfile&theme=dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhotin07&layout=compact&card_width=350&locale=ru&hide=procfile&theme=dark" />
   </a>
 </p>
 
